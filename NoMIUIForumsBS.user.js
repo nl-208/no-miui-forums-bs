@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         No MIUI Forums BS
-// @namespace    https://theautomatedparts.com/userscripts.html
+// @namespace    https://github.com/nlivingston-ap/no-miui-forums-bs
 // @version      1.0
 // @description  Removes nonsense (medals, Chinese characters in thread titles, stamps, smileys are shrunk down) from the MIUI forum.
 // @author       NLivingston
 // @match        en.miui.com/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @grant        GM_addStyle
+// @grant        sandbox
 // ==/UserScript==
 
 (function() {
