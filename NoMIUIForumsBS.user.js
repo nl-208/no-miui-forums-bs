@@ -5,6 +5,9 @@
 // @description  Removes nonsense (medals, Chinese characters in thread titles, stamps, smileys are shrunk down) from the MIUI forum.
 // @author       NLivingston
 // @include      en.miui.com/*
+// @include  en.miui.com/*
+// @include  en.miui.com/thread*
+// @include  en.miui.com/forum.php?*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @grant        GM_addStyle
 // @run-at document-end
