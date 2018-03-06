@@ -6,6 +6,8 @@
 // @author       NLivingston
 // @match        en.miui.com/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// the grant is just there to invoke the sandbox (otherwise, all other JS elements on the page would break once the script loaded).
+// nothing is done with it.
 // @grant        GM_addStyle
 // ==/UserScript==
 
