@@ -15,9 +15,9 @@
     var imgsOnPage = document.getElementsByTagName('img');
     for (var i = 0; i < imgsOnPage.length; i++) {
         // check if the image is from the smileys directory. if it is, make it so it's not quite so bloody huge.
-        if (imgsOnPage[i].src.match('^http://en.miui.com/static/image/smiley/')) {
-            imgsOnPage[i].width = 20;
-            imgsOnPage[i].height = 20;
+        if (imgsOnPage[i].src.match('^http://en.miui.com/static/image/smiley/') || imgsOnPage[i].src.match('http://static.en.intl.miui.com/static/image/smiley')) {
+            imgsOnPage[i].setAttribute("height", "20");
+            imgsOnPage[i].setAttribute("width", "20");
         }
         // same as before, but check to see if it's from the stamps directory. if so, remove it.
         else if (imgsOnPage[i].src.match('^http://static.en.intl.miui.com/static/image/stamp')){
