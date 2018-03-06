@@ -6,7 +6,7 @@
 // @author       NLivingston
 // @include        en.miui.com/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @grant        sandbox
+// @grant        GM_addStyle
 // ==/UserScript==
 
 (function(cleanUpPage) {
