@@ -9,7 +9,7 @@
 // @grant        sandbox
 // ==/UserScript==
 
-(function() {
+(function(cleanUpPage) {
     'use strict';
     // get every image on the page and put it in an array.
     var imgsOnPage = document.getElementsByTagName('img');
