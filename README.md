@@ -9,7 +9,7 @@ Cuts down on nonsense from the MIUI forum, making it easier to read.
 # Greasemonkey
 Don't try to use Greasemonkey with this script, as it will **NOT** work. In fact, most, if not all, userscripts do not appear to work with Greasemonkey anymore. Trying to install any script (not just NMFBS) will return an error.
 
-Consider using Tampermonkey or Violentmonkey instead.
+Consider using [Tampermonkey](https://tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/get-it/) instead.
 
 # Planned
 * Simplify the ratings box.
