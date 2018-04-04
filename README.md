@@ -6,6 +6,11 @@ Cuts down on nonsense from the MIUI forum, making it easier to read.
 * Shrinks all smileys down to 20x20.
 * View-obscuring stamps ("answered", "lucky draw", "dope", etc.) are removed. You can still see the tags in the thread titles.
 
-# PLANNED
+# Greasemonkey
+Don't try to use Greasemonkey with this script, as it will **NOT** work. In fact, most, if not all, userscripts do not appear to work with Greasemonkey anymore. Trying to install any script (not just NMFBS) will return an error.
+
+Consider using Tampermonkey or Violentmonkey instead.
+
+# Planned
 * Simplify the ratings box.
 * Add a context menu so you can turn each filter on or off.
