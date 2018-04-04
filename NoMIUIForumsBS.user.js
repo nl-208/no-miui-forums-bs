@@ -1,9 +1,11 @@
 // ==UserScript==
+// @id com.theautomatedparts.nlivingston.nomiuiforumsbs
 // @name         No MIUI Forums BS
-// @namespace    https://github.com/nlivingston-ap/no-miui-forums-bs
 // @version      1.1
-// @description  Removes nonsense (medals, Chinese characters in thread titles, stamps, smileys are shrunk down) from the MIUI forum.
+// @homepage https://theautomatedparts.com
+// @description  Removes nonsense (medals, Chinese characters in thread titles, stamps, smileys are shrunk down, less icons) from the MIUI forum.
 // @author       NLivingston
+// @updateURL https://github.com/nlivingston-ap/no-miui-forums-bs/raw/master/NoMIUIForumsBS.user.js
 // @include 	  *.miui.com/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @grant        GM_addStyle
