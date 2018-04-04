@@ -3,7 +3,7 @@ Cuts down on nonsense from the MIUI forum, making it easier to read.
 
 * Removes the medal boxes. No longer will you have to scroll through half a page to get past one post.
 * Removes all threads with Chinese characters in the titles from the thread list.
-* Shrinks all smileys down to 20x20.
+* Shrinks all smileys down to 20x20 from 48x48.
 * View-obscuring stamps ("answered", "lucky draw", "dope", etc.) are removed. You can still see the tags in the thread titles.
 
 # Greasemonkey
