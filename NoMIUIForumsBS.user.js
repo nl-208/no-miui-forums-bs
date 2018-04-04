@@ -26,10 +26,6 @@
         else if (imgsOnPage[i].src.match('^http://static.en.intl.miui.com/static/image/stamp')){
             $( imgsOnPage[i] ).remove();
         }
-		// remove the images corresponding to filetypes before downloadable attachments
-		else if (imgsOnPage[i].src.match('^http://static.en.intl.miui.com/static/miui/base/filetype')){
-		    $( imgsOnPage[i] ).remove();
-		}
     }
     // remove the medal boxes
     // get all users' medal boxes and put them in an array.
