@@ -7,7 +7,7 @@ Cuts down on nonsense from the MIUI forum, making it easier to read.
 * View-obscuring stamps ("answered", "lucky draw", "dope", "original", etc.) are removed. You can still see the tags in the thread titles.
 
 # How to Install
-1) First, install the userscript extension of your choice. They are listed below by browser.
+First, install the userscript extension of your choice. They are listed below by browser.
 
 <img width="30" height="30 src="https://upload.wikimedia.org/wikipedia/commons/2/24/Chromium_Material_Icon-256x256.png" alt="Chrome/Chromium">
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en)
@@ -21,9 +21,9 @@ Cuts down on nonsense from the MIUI forum, making it easier to read.
 <img width="30" height="30" src="https://seeklogo.com/images/O/opera-logo-FD270C9492-seeklogo.com.png" alt="Opera">
 [Tampermonkey only](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) natively. [It is also possible to use Violentmonkey through the Chrome web store.](https://violentmonkey.github.io/get-it/)
 
-2) After installing the userscript extension, click on NoMIUIForumsBS.user.js above. Once on the page containing the source code, click Raw. You should be presented with a window to install the script. Choose to install the script.
+After installing the userscript extension, click on NoMIUIForumsBS.user.js above. Once on the page containing the source code, click Raw. You should be presented with a window to install the script. Choose to install the script.
 
-3) Done.
+Done.
 
 # Planned features
 * Simplify the ratings box.
