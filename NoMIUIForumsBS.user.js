@@ -8,6 +8,7 @@
 // @updateURL https://github.com/nlivingston-ap/no-miui-forums-bs/raw/master/NoMIUIForumsBS.user.js
 // @include 	  *.miui.com/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// the grant below is just to ensure the sandbox activates (otherwise all other javascript elements on the page will break.) It doesn't do anything other than that.
 // @grant        GM_addStyle
 // @run-at document-end
 // ==/UserScript==
