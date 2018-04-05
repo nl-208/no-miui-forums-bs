@@ -9,7 +9,7 @@ Cuts down on nonsense from the MIUI forum, making it easier to read.
 # How to Install
 First, install the userscript extension of your choice. They are listed below by browser.
 
-<img width="30" height="30 src="https://upload.wikimedia.org/wikipedia/commons/2/24/Chromium_Material_Icon-256x256.png" alt="Chrome/Chromium">
+<img width="30" height="30 src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" alt="Chrome/Chromium">
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en)
 
 <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Firefox_Logo%2C_2017.svg/2000px-Firefox_Logo%2C_2017.svg.png" alt="Firefox">
