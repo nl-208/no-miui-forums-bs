@@ -14,7 +14,7 @@ Cuts down on nonsense from the MIUI forum, making it easier to read.
 
 	* Edge: [Tampermonkey only](https://www.microsoft.com/en-us/store/p/tampermonkey/9nblggh5162s)
 
-	* Opera: [Tampermonkey only](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) natively. [It is also possible to use Violentmonkey through the Chrome web store.](https://violentmonkey.github.io/get-it/)
+	* Opera: [Tampermonkey only](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) natively. [It is also possible to use Violentmonkey through the Chrome web store.](https://violentmonkey.github.io/get-it/#Browsers-with-WebExtension-support)
 
 2) After installing the userscript extension, click on NoMIUIForumsBS.user.js above. Once on the page containing the source code, click Raw. You should be presented with a window to install the script. Choose to install the script.
 
