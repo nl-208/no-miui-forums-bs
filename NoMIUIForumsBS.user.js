@@ -14,12 +14,12 @@
 // ==/UserScript==
 // Variables
 var imgsOnPage = document.getElementsByTagName('img');
-var threadsInList = document.GetElementsByClassName('s xst'); {
+var threadsInList = document.GetElementsByClassName('s xst');
+var medalBoxes = document.getElementsByClassName('md_ctrl');
 
 (function(removeMedals) {
         // remove the medal boxes
         // get all users' medal boxes and put them in an array.
-        var medalBoxes = document.getElementsByClassName('md_ctrl');
         for (var j = 0; j < medalBoxes.length; i++) {
             // ...then remove them.
             $(medalBoxes[j]).remove();
